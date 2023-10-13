@@ -1,0 +1,5 @@
+
+ if [ $2 = "+"	]
+ then 
+   echo resultat=$(($1+$3))
+fi   
